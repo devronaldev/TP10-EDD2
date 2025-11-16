@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP10-EDD2", "TP10-EDD2\TP10-EDD2.csproj", "{CD458B21-C8BE-4380-A19F-058354104205}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD458B21-C8BE-4380-A19F-058354104205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD458B21-C8BE-4380-A19F-058354104205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD458B21-C8BE-4380-A19F-058354104205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD458B21-C8BE-4380-A19F-058354104205}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
